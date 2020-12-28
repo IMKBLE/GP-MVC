@@ -1,4 +1,4 @@
-#GP-MVC: Generative Partial Multi-View Clustering with Adaptive Fusion and Cycle Consistency
+#GP-MVC: Generative Partial Multi-View Clustering with Adaptive Fusion and Cycle Consistency#
 
 ***
 
@@ -24,6 +24,7 @@ Bibtex
 
 <div style="text-align: center; width: 900px; border: green solid 1px;">
 <img src="./Images/frame_3.jpg"  width="700"    title="Network Model" alt="Network Model" style="display: inline-block;"/>
+<br></br>
 <center>Figure 1: Network Model</center>
 </div>
 
@@ -35,16 +36,19 @@ Nowadays, with the rapid development of data collection sources and feature extr
 
 <div style="text-align: center; width: 900px; border: green solid 1px;">
 <img src="./Images/img_text.jpg"  width="700">
+<br></br>
 <center>Figure 2: Illustration of partial multi-view data with image and text views</center>
 </div>
 
 <div style="text-align: center; width: 900px; border: green solid 1px;">
 <img src="./Images/missdata_3.jpg"  width="700">
+<br></br>
 <center>Figure 3: Illustration for multi-view data</center>
 </div>
 
 <div style="text-align: center; width: 900px; border: green solid 1px;">
 <img src="./Images/cycle.jpg"  width="700">
+<br></br>
 <center>Figure 4: The framework of cycle GAN</center>
 </div>
 
@@ -58,8 +62,9 @@ In our experiment, we choose the first three views of HW dataset: 76 Fourier coe
 
 Python 3.6  
 PyTorch 1.0  
-Train the model  
-python train.py  
+**Train the model**  
+<table><tr><td bgcolor=GhostWhite width="900">python train.py  </td></tr></table>  
+  
 
 **Acknowledgments**
 
