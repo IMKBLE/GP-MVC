@@ -58,12 +58,11 @@ Nowadays, with the rapid development of data collection sources and feature extr
 HW (Handwritten numerals): an image dataset with 2,000 images of 10 classes from 0 to 9 digit. Each class contains 200 samples with 6 kinds of features, i.e., 76 Fourier coefficients for two-dimensional shape descriptors (FOU), 216 profile correlations (FAC), 64 Karhunen-Loeve coefficients (KAR), 240-pixel feature (PIX) obtained by dividing the image of 30*48 pixels into 240 tiles of 2*3 pixels and counting the average number of object pixels in each tile, 47 rotational invariant Zernike moment (ZER), and 6 morphological (MOR) features. 
 In our experiment, we choose the first three views of HW dataset: 76 Fourier coefficients for two-dimensional shape descriptors (FOU), 216 profile correlations (FAC), 64 Karhunen-Loeve coefficients (KAR).
 
-**Requirements**
-
+**Requirements**  
 Python 3.6  
 PyTorch 1.0  
 **Train the model**  
-<table><tr><td bgcolor=GhostWhite width="900">python train.py  </td></tr></table>  
+<table><tr><td bgcolor=Gainsboro	 width="900">python train.py  </td></tr></table>  
   
 
 **Acknowledgments**
