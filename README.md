@@ -20,6 +20,10 @@ Bibtex
   year={2021},  
 }
 
+This paper is an extension to our previous work: 
+
+[Qianqian Wang, Zengming Ding, Zhiqiang Tao, Quanxue Gao and Yun Fu, Partial Multi-view Clustering via Consistent GAN, IEEE ICDM, 2018: 1290-1295.](https://ieeexplore.ieee.org/abstract/document/8594983/)
+
 **GP-MVC Model:**
 
 <div style="text-align: center; width: 900px; border: green solid 1px;">
