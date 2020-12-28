@@ -62,8 +62,12 @@ In our experiment, we choose the first three views of HW dataset: 76 Fourier coe
 Python 3.6  
 PyTorch 1.0  
 **Train the model**  
+<!--
 <table><tr><td bgcolor=Gainsboro	 width="900">python train.py  </td></tr></table>  
-  
+-->
+```
+python train.py
+``` 
 
 **Acknowledgments**
 
