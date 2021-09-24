@@ -63,8 +63,13 @@ HW (Handwritten numerals): an image dataset with 2,000 images of 10 classes from
 In our experiment, we choose the first three views of HW dataset: 76 Fourier coefficients for two-dimensional shape descriptors (FOU), 216 profile correlations (FAC), 64 Karhunen-Loeve coefficients (KAR).
 
 **Requirements**  
-Python 3.6  
-PyTorch 1.0  
+
+Python: Python 3.6.2：  
+Pytorch: 0.1.12  
+Numpy: 1.13.1  
+TorchVision: 0.1.8  
+Cuda: 11.2  
+
 **Train the model**  
 <!--
 <table><tr><td bgcolor=Gainsboro	 width="900">python train.py  </td></tr></table>  
